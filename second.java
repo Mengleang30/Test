@@ -5,6 +5,7 @@ import javax.swing.JFrame;
 
 public class second {
     JFrame f = new JFrame();
+    f.setVisible(true);
     
 
 }
